@@ -1,2 +1,0 @@
-# Owner
-my-telegram-bot
